@@ -1,0 +1,18 @@
+img#results_logo {
+    margin: 7px 10px 7px 13px;
+    width: 120px;
+}
+
+body {
+    text-align: left;
+}
+
+.gray_div {
+    background: #fafafa;
+}
+
+.gray_div#footer{
+    position: absolute;
+    bottom: 0;
+    display: block;
+}
